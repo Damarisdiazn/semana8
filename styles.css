@@ -1,0 +1,12 @@
+/* Personalización adicional */
+header {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.bg-pink {
+  background-color: #ee63a4 !important; /* Bootstrap pink */
+}
+.img-pequena {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
